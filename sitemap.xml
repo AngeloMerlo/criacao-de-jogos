@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.criacaodejogos.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.criacaodejogos.com.br/</loc>
+</url>
+<url>
+<loc>https://www.criacaodejogos.com.br/5-melhores-engines-para-criacao-de-jogos/</loc>
+<lastmod>2021-01-11T07:28:56-03:00</lastmod>
+<image:image>
+<image:loc>https://www.criacaodejogos.com.br/media\posts\5/5-melhores-engines-para-criacao-de-jogos.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.criacaodejogos.com.br/contato/</loc>
+<lastmod>2021-01-11T08:28:42-03:00</lastmod>
+<image:image>
+<image:loc>https://www.criacaodejogos.com.br/media\posts\2/contato.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.criacaodejogos.com.br/politica-de-privacidade/</loc>
+<lastmod>2021-01-11T09:29:54-03:00</lastmod>
+<image:image>
+<image:loc>https://www.criacaodejogos.com.br/media\posts\1/politica-de-privacidade.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.criacaodejogos.com.br/sobre/</loc>
+<lastmod>2021-01-11T08:36:07-03:00</lastmod>
+</url>
+<url>
+<loc>https://www.criacaodejogos.com.br/termos-de-uso/</loc>
+<lastmod>2021-01-11T07:42:28-03:00</lastmod>
+<image:image>
+<image:loc>https://www.criacaodejogos.com.br/media\posts\3/termos-de-uso.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
